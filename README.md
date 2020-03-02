@@ -5,7 +5,7 @@
 可以设置顶部title是否显示和可自定义标题内容
 
 ----------
-![Alt text](./1583145681719.gif)
+![Alt text](https://github.com/xiaoxing1992/MBBottomDialog/blob/master/1583145681719.gif)
 
 
 ```
